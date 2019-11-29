@@ -14,3 +14,8 @@ Built with TypeScript
 
 ## Building for production
 - npm run build
+
+
+
+
+![](bouncing-balls.gif)
