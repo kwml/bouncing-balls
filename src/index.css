@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 20px 0;
+}
+
+.header-text {
+    color: #fff;
+}
+
+.content-container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 100px 0px;
+}
+
+.game-screen {
+    background-color: black;
+}
